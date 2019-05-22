@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "37580486318",
+    "firebase_url": "https://fir-authentication-19b0c.firebaseio.com",
+    "project_id": "fir-authentication-19b0c",
+    "storage_bucket": "fir-authentication-19b0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37580486318:android:0531358ca23ee408",
+        "android_client_info": {
+          "package_name": "com.hanks.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37580486318-9vrblhop0nkealupbotbb7bp2id4onbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkBAJfFeosGhzzdu22OMIB16_yKUSERPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37580486318-9vrblhop0nkealupbotbb7bp2id4onbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
